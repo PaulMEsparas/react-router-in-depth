@@ -7,3 +7,23 @@ Navlink has an active class when routed which Link has none
 * Better to use Navlink
 
 run json server : json-server -p 4000 -w ./data/db.json
+
+Error Handling : errorElement can be placed on the parent route so that each child can handle the error once its thrown from any of the child element
+
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9iVKmtNuCeIswnQ97in2GGf
+
+React Router in Depth #1 - Introduction
+React Router in Depth #2 - React Router Basics
+React Router in Depth #3 - Router Provider, createBrowserRouter & Outlet
+React Router in Depth #4 - Nested Routes & Layouts
+React Router in Depth #5 - Custom 404 Page
+React Router in Depth #6 - Loaders
+React Router in Depth #7 - Route Parameters
+React Router in Depth #8 - Error Elements
+React Router in Depth #9 - Making Breadcrumbs (useLocation hook)
+React Router in Depth #10 - Forms & Actions
+React Router in Depth #11 - Navigate Component (Not included here)
+
+
+
+
